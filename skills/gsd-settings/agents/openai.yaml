@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Settings"
+  short_description: "Workflow for settings tasks"
+  default_prompt: "Use $gsd-settings to run the settings phase for this request."

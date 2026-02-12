@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Debug"
+  short_description: "Workflow for debug tasks"
+  default_prompt: "Use $gsd-debug to run the debug phase for this request."

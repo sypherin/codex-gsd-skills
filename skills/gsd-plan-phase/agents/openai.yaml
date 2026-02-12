@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Plan Phase"
+  short_description: "Workflow for plan phase tasks"
+  default_prompt: "Use $gsd-plan-phase to run the plan-phase phase for this request."

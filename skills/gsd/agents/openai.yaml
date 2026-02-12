@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Dispatcher"
+  short_description: "Route requests to gsd phase skills"
+  default_prompt: "Use $gsd to route this request to the right GSD phase skill and execute it."

@@ -1,0 +1,42 @@
+name: Sync GSD Commands
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Sync command manifest from upstream
+        run: python3 scripts/sync_from_upstream.py
+
+      - name: Regenerate skills
+        run: python3 scripts/generate_skills.py
+
+      - name: Validate skills
+        run: python3 scripts/validate.py
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'chore: sync GSD commands from upstream'
+          title: 'chore: sync GSD commands from upstream'
+          body: |
+            Automated sync from `gsd-build/get-shit-done` README command list.
+          branch: chore/sync-gsd-upstream
+          delete-branch: true

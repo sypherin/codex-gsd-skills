@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Pause Work"
+  short_description: "Workflow for pause work tasks"
+  default_prompt: "Use $gsd-pause-work to run the pause-work phase for this request."

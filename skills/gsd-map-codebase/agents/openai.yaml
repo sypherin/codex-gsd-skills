@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Map Codebase"
+  short_description: "Workflow for map codebase"
+  default_prompt: "Use $gsd-map-codebase to run the map-codebase phase for this request."

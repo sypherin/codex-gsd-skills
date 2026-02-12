@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD New Project"
+  short_description: "Workflow for new project tasks"
+  default_prompt: "Use $gsd-new-project to run the new-project phase for this request."

@@ -1,0 +1,33 @@
+{
+  "upstream_repo": "gsd-build/get-shit-done",
+  "source": "README commands section",
+  "updated_at": "2026-02-12",
+  "commands": [
+    "new-project",
+    "discuss-phase",
+    "plan-phase",
+    "execute-phase",
+    "verify-work",
+    "audit-milestone",
+    "complete-milestone",
+    "new-milestone",
+    "progress",
+    "help",
+    "update",
+    "join-discord",
+    "map-codebase",
+    "add-phase",
+    "insert-phase",
+    "remove-phase",
+    "list-phase-assumptions",
+    "plan-milestone-gaps",
+    "pause-work",
+    "resume-work",
+    "settings",
+    "set-profile",
+    "add-todo",
+    "check-todos",
+    "debug",
+    "quick"
+  ]
+}
