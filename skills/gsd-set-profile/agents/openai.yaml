@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Set Profile"
-  short_description: "Workflow for set profile tasks"
-  default_prompt: "Use $gsd-set-profile to run the set-profile phase for this request."

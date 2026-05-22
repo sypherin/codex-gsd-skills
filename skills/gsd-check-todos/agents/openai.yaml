@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Check Todos"
-  short_description: "Workflow for check todos tasks"
-  default_prompt: "Use $gsd-check-todos to run the check-todos phase for this request."

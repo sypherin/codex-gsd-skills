@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Progress"
-  short_description: "Workflow for progress tasks"
-  default_prompt: "Use $gsd-progress to run the progress phase for this request."

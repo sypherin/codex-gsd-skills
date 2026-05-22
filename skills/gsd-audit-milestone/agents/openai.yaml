@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Audit Milestone"
-  short_description: "Workflow for audit milestone"
-  default_prompt: "Use $gsd-audit-milestone to run the audit-milestone phase for this request."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Help"
-  short_description: "Workflow for help tasks"
-  default_prompt: "Use $gsd-help to run the help phase for this request."

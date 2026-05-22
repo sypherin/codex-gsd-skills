@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Execute Phase"
-  short_description: "Workflow for execute phase"
-  default_prompt: "Use $gsd-execute-phase to run the execute-phase phase for this request."

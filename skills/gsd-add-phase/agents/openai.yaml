@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Add Phase"
-  short_description: "Workflow for add phase tasks"
-  default_prompt: "Use $gsd-add-phase to run the add-phase phase for this request."

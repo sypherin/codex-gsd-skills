@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Add Todo"
-  short_description: "Workflow for add todo tasks"
-  default_prompt: "Use $gsd-add-todo to run the add-todo phase for this request."

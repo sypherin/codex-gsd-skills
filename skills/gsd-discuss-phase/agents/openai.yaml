@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Discuss Phase"
-  short_description: "Workflow for discuss phase"
-  default_prompt: "Use $gsd-discuss-phase to run the discuss-phase phase for this request."

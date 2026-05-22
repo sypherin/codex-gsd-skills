@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Verify Work"
-  short_description: "Workflow for verify work tasks"
-  default_prompt: "Use $gsd-verify-work to run the verify-work phase for this request."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Plan Milestone Gaps"
-  short_description: "Workflow for plan milestone gaps"
-  default_prompt: "Use $gsd-plan-milestone-gaps to run the plan-milestone-gaps phase for this request."

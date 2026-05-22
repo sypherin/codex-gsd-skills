@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Join Discord"
-  short_description: "Workflow for join discord"
-  default_prompt: "Use $gsd-join-discord to run the join-discord phase for this request."

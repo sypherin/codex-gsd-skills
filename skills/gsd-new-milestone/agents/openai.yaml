@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD New Milestone"
-  short_description: "Workflow for new milestone"
-  default_prompt: "Use $gsd-new-milestone to run the new-milestone phase for this request."

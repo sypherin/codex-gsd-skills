@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Remove Phase"
-  short_description: "Workflow for remove phase"
-  default_prompt: "Use $gsd-remove-phase to run the remove-phase phase for this request."

@@ -1,13 +1,13 @@
 ---
-name: gsd-settings
-description: Execution-first workflow for GSD command `settings`. Use when the user asks for `/gsd:settings` behavior or equivalent outcomes.
+name: gsd-surface
+description: Execution-first workflow for GSD command `surface`. Use when the user asks for `/gsd:surface` behavior or equivalent outcomes.
 ---
 
-# Settings
+# Surface
 
 ## Objective
 
-Execute the `settings` phase with clear outputs and minimal ceremony.
+Execute the `surface` phase with clear outputs and minimal ceremony.
 
 ## Workflow
 

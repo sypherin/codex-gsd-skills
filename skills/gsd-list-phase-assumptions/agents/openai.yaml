@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD List Phase Assumptions"
-  short_description: "Workflow for list phase assumptions"
-  default_prompt: "Use $gsd-list-phase-assumptions to run the list-phase-assumptions phase for this request."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Resume Work"
-  short_description: "Workflow for resume work tasks"
-  default_prompt: "Use $gsd-resume-work to run the resume-work phase for this request."

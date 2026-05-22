@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Update"
-  short_description: "Workflow for update tasks"
-  default_prompt: "Use $gsd-update to run the update phase for this request."

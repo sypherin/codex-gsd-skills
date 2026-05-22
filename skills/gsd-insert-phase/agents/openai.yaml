@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Insert Phase"
-  short_description: "Workflow for insert phase"
-  default_prompt: "Use $gsd-insert-phase to run the insert-phase phase for this request."

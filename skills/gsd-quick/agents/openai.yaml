@@ -1,4 +1,0 @@
-interface:
-  display_name: "GSD Quick"
-  short_description: "Workflow for quick tasks"
-  default_prompt: "Use $gsd-quick to run the quick phase for this request."

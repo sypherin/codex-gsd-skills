@@ -1,0 +1,4 @@
+interface:
+  display_name: "GSD Surface"
+  short_description: "Workflow for surface tasks"
+  default_prompt: "Use $gsd-surface to run the surface phase for this request."
